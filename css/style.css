@@ -1,0 +1,60 @@
+/* Color Palette
+https://coolors.co/0a0908-22333b-eae0d5-c6ac8f-5e503f
+
+Rich Black : #0a0908
+Gunmetal : #22333B
+Almond : #EAE0D5
+Khaki Web : #C6AC8F
+Umber : #5E503F
+ */
+
+/* Global Styles
+ ---------------------------------------- */
+
+body {
+  color: #0a0908;
+}
+
+img {
+  width: 300px;
+}
+
+a {
+  color: #c6ac8f;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+/* Profile
+ ---------------------------------------- */
+
+header {
+  background-color: #c6ac8f;
+}
+
+/* Projects
+ ---------------------------------------- */
+
+.projects {
+  background-color: #eae0d5;
+}
+
+/* Work Experience
+ ---------------------------------------- */
+
+.work-experience {
+  background-color: #22333b;
+  color: #eae0d5;
+}
+
+/* Education
+ ---------------------------------------- */
+
+/* Contact Information
+ ---------------------------------------- */
+
+footer {
+  background-color: #5e503f;
+}
